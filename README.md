@@ -2,8 +2,8 @@
 
 # Solución
 
-- [Apple Pie](https://ddelgadod.github.io/lab-css-recipes-clone/apple-pie/)
-- [French Soup](https://ddelgadod.github.io/lab-css-recipes-clone/french-soup/)
+- [Apple Pie](https://ddelgadod.github.io/IRONHACK-lab-3-css-recipes-clone/apple-pie/)
+- [French Soup](https://ddelgadod.github.io/IRONHACK-lab-3-css-recipes-clone/french-soup/)
 
 # LAB | HTML & CSS - Recipes Clone
 
