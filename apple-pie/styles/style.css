@@ -15,6 +15,11 @@ html {
     font-size: 18px
 }
 
+hr{
+    border: 2px solid gray;
+    width: 80%;
+}
+
 body{
     width:100hv;    
     display: flex;
@@ -50,6 +55,7 @@ section ul{
 
 img{
     align-self: center;
+    margin-bottom: 4%;
 }
 
 .bold{

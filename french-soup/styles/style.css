@@ -21,6 +21,11 @@ body{
   flex-direction: column;
 }
 
+hr{
+  border: 2px solid gray;
+  width: 80%;
+}
+
 header{
   display: flex;
   margin-top: 0%;
@@ -50,6 +55,7 @@ section ul{
 
 img{
   align-self: center;
+  margin-bottom: 4%;
 }
 
 .bold{
